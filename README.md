@@ -14,6 +14,10 @@ This repo contains the refactored code solution to the DU Bootcamp Module 1 Chal
 <h3>Solution Screenshot</h3>
 <img src="assetts/../assets/images/DUBootCampChallenge01Screen.png">
 
+<h3>Code Source</h3> 
+
+https://github.com/davisjeff500/DUBootcamp-Mod1-Challenge
+
 
 <h3>Credits and documentation used for this project.</h3> 
 
